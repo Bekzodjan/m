@@ -1,0 +1,33 @@
+{
+  "orders": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bekzod",
+      "username": "Bekzodjan",
+      "tel": "+998883060137",
+      "password": "bekzod2010"
+    },
+    {
+      "id": 2,
+      "name": "Azizbek",
+      "username": "Azizbek",
+      "tel": "+998973080136",
+      "password": "azik0611"
+    },
+    {
+      "id": 3,
+      "name": "Baxtiyor",
+      "username": "Baxa",
+      "tel": "+998973020135",
+      "password": "bakha1985"
+    },
+    {
+      "id": 4,
+      "name": "Bexruz",
+      "username": "Bexruz",
+      "tel": "+998978545008",
+      "password": "bexruz1995"
+    }
+  ]
+}
